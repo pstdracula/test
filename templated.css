@@ -1,0 +1,27 @@
+#header{
+     height: 100px;
+    background: #db6868;
+
+
+}
+
+
+#header a
+{
+    padding: 20px;
+}
+#footer .row .col-md-12
+{
+    height: 85px;
+    background: #be5454;
+}
+#footer .row .col-md-12 p
+{
+    text-align: center;
+    padding-top: 26px;
+    color: #fff;
+}
+#cot2dong2
+{
+    background: gray;
+}
